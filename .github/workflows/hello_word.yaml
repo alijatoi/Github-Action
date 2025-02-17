@@ -3,7 +3,7 @@ name : Hello world workflow
 on:
   push:
     branches:
-      - jatoi
+      - main
   pull_request:
     branches:
       - main
